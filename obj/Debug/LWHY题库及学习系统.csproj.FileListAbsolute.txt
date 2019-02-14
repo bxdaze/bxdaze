@@ -1,0 +1,62 @@
+e:\users\bxdaze\documents\visual studio 2013\Projects\LWHY题库及学习系统\LWHY题库及学习系统\bin\Debug\LWHY题库及学习系统.exe.config
+e:\users\bxdaze\documents\visual studio 2013\Projects\LWHY题库及学习系统\LWHY题库及学习系统\obj\Debug\WindowsFormsApp_login.FLogin.resources
+e:\users\bxdaze\documents\visual studio 2013\Projects\LWHY题库及学习系统\LWHY题库及学习系统\obj\Debug\LWHY题库及学习系统.Properties.Resources.resources
+e:\users\bxdaze\documents\visual studio 2013\Projects\LWHY题库及学习系统\LWHY题库及学习系统\obj\Debug\LWHY题库及学习系统.csproj.GenerateResource.Cache
+e:\users\bxdaze\documents\visual studio 2013\Projects\LWHY题库及学习系统\LWHY题库及学习系统\bin\Debug\LWHY题库及学习系统.exe
+e:\users\bxdaze\documents\visual studio 2013\Projects\LWHY题库及学习系统\LWHY题库及学习系统\bin\Debug\LWHY题库及学习系统.pdb
+e:\users\bxdaze\documents\visual studio 2013\Projects\LWHY题库及学习系统\LWHY题库及学习系统\obj\Debug\LWHY题库及学习系统.exe
+e:\users\bxdaze\documents\visual studio 2013\Projects\LWHY题库及学习系统\LWHY题库及学习系统\obj\Debug\LWHY题库及学习系统.pdb
+e:\users\bxdaze\documents\visual studio 2013\Projects\LWHY题库及学习系统\LWHY题库及学习系统\obj\Debug\LWHY题库及学习系统.csprojResolveAssemblyReference.cache
+e:\users\bxdaze\documents\visual studio 2013\Projects\LWHY题库及学习系统\LWHY题库及学习系统\obj\Debug\AddTagsForm.FormAddTags.resources
+e:\users\bxdaze\documents\visual studio 2013\Projects\LWHY题库及学习系统\LWHY题库及学习系统\obj\Debug\注册界面.FormSignup.resources
+e:\users\bxdaze\documents\visual studio 2013\Projects\LWHY题库及学习系统\LWHY题库及学习系统\obj\Debug\WindowsFormsUser.ShowMyQuestionForm.resources
+e:\users\bxdaze\documents\visual studio 2013\Projects\LWHY题库及学习系统\LWHY题库及学习系统\obj\Debug\WindowsFormsUser.UserFrame.resources
+e:\users\bxdaze\documents\visual studio 2013\Projects\LWHY题库及学习系统\LWHY题库及学习系统\obj\Debug\WindowsFormsUser.UserInfoForm.resources
+e:\users\bxdaze\documents\visual studio 2013\Projects\LWHY题库及学习系统\LWHY题库及学习系统\obj\Debug\LWHY_Search.problem.resources
+e:\users\bxdaze\documents\visual studio 2013\Projects\LWHY题库及学习系统\LWHY题库及学习系统\obj\Debug\LWHY_Search.questionBank.resources
+e:\users\bxdaze\documents\visual studio 2013\Projects\LWHY题库及学习系统\LWHY题库及学习系统\obj\Debug\LWHY_Search.SearchQue.resources
+e:\users\bxdaze\documents\visual studio 2013\Projects\LWHY题库及学习系统\LWHY题库及学习系统\obj\Debug\RecordQuestion.Blank.resources
+e:\users\bxdaze\documents\visual studio 2013\Projects\LWHY题库及学习系统\LWHY题库及学习系统\obj\Debug\RecordQuestion.Caculation.resources
+e:\users\bxdaze\documents\visual studio 2013\Projects\LWHY题库及学习系统\LWHY题库及学习系统\obj\Debug\RecordQuestion.Judge.resources
+e:\users\bxdaze\documents\visual studio 2013\Projects\LWHY题库及学习系统\LWHY题库及学习系统\obj\Debug\RecordQuestion.mulChoice_form.resources
+e:\users\bxdaze\documents\visual studio 2013\Projects\LWHY题库及学习系统\LWHY题库及学习系统\obj\Debug\RecordQuestion.MyForm.resources
+e:\users\bxdaze\documents\visual studio 2013\Projects\LWHY题库及学习系统\LWHY题库及学习系统\obj\Debug\RecordQuestion.SAnswer.resources
+e:\users\bxdaze\documents\visual studio 2013\Projects\LWHY题库及学习系统\LWHY题库及学习系统\obj\Debug\TreeView.Treeview.resources
+e:\users\bxdaze\documents\visual studio 2013\Projects\LWHY题库及学习系统\LWHY题库及学习系统\obj\Debug\RecordQuestion.Type_form.resources
+e:\users\bxdaze\documents\visual studio 2013\Projects\LWHY题库及学习系统\LWHY题库及学习系统\obj\Debug\LWHY_test.Exam.resources
+e:\users\bxdaze\documents\visual studio 2013\Projects\LWHY题库及学习系统\LWHY题库及学习系统\obj\Debug\LWHY_test.Modelchose.resources
+e:\users\bxdaze\documents\visual studio 2013\Projects\LWHY题库及学习系统\LWHY题库及学习系统\obj\Debug\LWHY_test.Practice.resources
+E:\Users\bxdaze\documents\visual studio 2013\Projects\LWHY题库及学习系统\LWHY题库及学习系统\obj\Debug\LWHY.AF.resources
+E:\Users\bxdaze\documents\visual studio 2013\Projects\LWHY题库及学习系统\LWHY题库及学习系统\obj\Debug\LWHY.OF.resources
+E:\Users\bxdaze\documents\visual studio 2013\Projects\LWHY题库及学习系统\LWHY题库及学习系统\obj\Debug\LWHY.QF.resources
+E:\Users\bxdaze\documents\visual studio 2013\Projects\LWHY题库及学习系统\LWHY题库及学习系统\obj\Debug\LWHY.Userfeedback.resources
+C:\Users\bxdaze\xyz\LWHY题库及学习系统\LWHY题库及学习系统\obj\Debug\LWHY题库及学习系统.csprojResolveAssemblyReference.cache
+C:\Users\bxdaze\xyz\LWHY题库及学习系统\LWHY题库及学习系统\obj\Debug\LWHY.AF.resources
+C:\Users\bxdaze\xyz\LWHY题库及学习系统\LWHY题库及学习系统\obj\Debug\RecordQuestion.Blank.resources
+C:\Users\bxdaze\xyz\LWHY题库及学习系统\LWHY题库及学习系统\obj\Debug\RecordQuestion.Caculation.resources
+C:\Users\bxdaze\xyz\LWHY题库及学习系统\LWHY题库及学习系统\obj\Debug\LWHY_test.Exam.resources
+C:\Users\bxdaze\xyz\LWHY题库及学习系统\LWHY题库及学习系统\obj\Debug\WindowsFormsApp_login.FLogin.resources
+C:\Users\bxdaze\xyz\LWHY题库及学习系统\LWHY题库及学习系统\obj\Debug\LWHY_test.Modelchose.resources
+C:\Users\bxdaze\xyz\LWHY题库及学习系统\LWHY题库及学习系统\obj\Debug\AddTagsForm.FormAddTags.resources
+C:\Users\bxdaze\xyz\LWHY题库及学习系统\LWHY题库及学习系统\obj\Debug\注册界面.FormSignup.resources
+C:\Users\bxdaze\xyz\LWHY题库及学习系统\LWHY题库及学习系统\obj\Debug\RecordQuestion.Judge.resources
+C:\Users\bxdaze\xyz\LWHY题库及学习系统\LWHY题库及学习系统\obj\Debug\RecordQuestion.mulChoice_form.resources
+C:\Users\bxdaze\xyz\LWHY题库及学习系统\LWHY题库及学习系统\obj\Debug\RecordQuestion.MyForm.resources
+C:\Users\bxdaze\xyz\LWHY题库及学习系统\LWHY题库及学习系统\obj\Debug\LWHY.OF.resources
+C:\Users\bxdaze\xyz\LWHY题库及学习系统\LWHY题库及学习系统\obj\Debug\LWHY_test.Practice.resources
+C:\Users\bxdaze\xyz\LWHY题库及学习系统\LWHY题库及学习系统\obj\Debug\LWHY_Search.problem.resources
+C:\Users\bxdaze\xyz\LWHY题库及学习系统\LWHY题库及学习系统\obj\Debug\LWHY题库及学习系统.Properties.Resources.resources
+C:\Users\bxdaze\xyz\LWHY题库及学习系统\LWHY题库及学习系统\obj\Debug\LWHY.QF.resources
+C:\Users\bxdaze\xyz\LWHY题库及学习系统\LWHY题库及学习系统\obj\Debug\LWHY_Search.questionBank.resources
+C:\Users\bxdaze\xyz\LWHY题库及学习系统\LWHY题库及学习系统\obj\Debug\RecordQuestion.SAnswer.resources
+C:\Users\bxdaze\xyz\LWHY题库及学习系统\LWHY题库及学习系统\obj\Debug\LWHY_Search.SearchQue.resources
+C:\Users\bxdaze\xyz\LWHY题库及学习系统\LWHY题库及学习系统\obj\Debug\WindowsFormsUser.ShowMyQuestionForm.resources
+C:\Users\bxdaze\xyz\LWHY题库及学习系统\LWHY题库及学习系统\obj\Debug\TreeView.Treeview.resources
+C:\Users\bxdaze\xyz\LWHY题库及学习系统\LWHY题库及学习系统\obj\Debug\RecordQuestion.Type_form.resources
+C:\Users\bxdaze\xyz\LWHY题库及学习系统\LWHY题库及学习系统\obj\Debug\LWHY.Userfeedback.resources
+C:\Users\bxdaze\xyz\LWHY题库及学习系统\LWHY题库及学习系统\obj\Debug\WindowsFormsUser.UserFrame.resources
+C:\Users\bxdaze\xyz\LWHY题库及学习系统\LWHY题库及学习系统\obj\Debug\WindowsFormsUser.UserInfoForm.resources
+C:\Users\bxdaze\xyz\LWHY题库及学习系统\LWHY题库及学习系统\obj\Debug\LWHY题库及学习系统.csproj.GenerateResource.cache
+C:\Users\bxdaze\xyz\LWHY题库及学习系统\LWHY题库及学习系统\obj\Debug\LWHY题库及学习系统.csproj.CoreCompileInputs.cache
+C:\Users\bxdaze\xyz\LWHY题库及学习系统\LWHY题库及学习系统\obj\Debug\LWHY题库及学习系统.exe
+C:\Users\bxdaze\xyz\LWHY题库及学习系统\LWHY题库及学习系统\obj\Debug\LWHY题库及学习系统.pdb
